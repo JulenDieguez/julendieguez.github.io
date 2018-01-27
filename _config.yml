@@ -46,12 +46,6 @@ social:
   - title: instagram
     url: https://www.instagram.com/jdpatxiku/
 
-# Postal address (add as many lines as necessary)
-address:
-  - line: Sabadell, Spain
-
-# Credits content
-#credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
