@@ -477,10 +477,10 @@ hr.star-light-red:after {
     background-color: #{{ site.color.secondary-dark }};
 }
 hr.star-secondary {
-    border-color: #fff;
+    border-color: #{{ site.color.primary }};
 }
 
 hr.star-secondary:after {
-    color: #fff;
-    background-color: #{{ site.color.primary }};
+    color: #{{ site.color.primary }};
+    background-color: #fff;
 }
