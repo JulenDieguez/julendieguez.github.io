@@ -28,6 +28,7 @@ color:
   primary: 00c3e3 
   primary-rgb: "0,195,277" 
   secondary: ff4554 
+  secondary-rgb: "255,69,84"
   secondary-dark: d13a44 
   white: ffffff
 
