@@ -2,7 +2,7 @@
 title: Julen Diéguez
 email: me@julendieguez.com
 url: http://julendieguez.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Julen Diéguez"
 keywords: "your keywords, separated by commas"
 skills: "Game programmer"
 meta_author: Diéguez Julen
@@ -25,10 +25,10 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  primary: ff4554 
+  primary-rgb: "255,69,84" 
+  secondary: 00c3e3 
+  secondary-dark: 414548 
 
 # Footer settings
 footer:
