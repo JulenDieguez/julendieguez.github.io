@@ -472,5 +472,13 @@ footer .footer-below {
 #about {
     text-align: center;
     color: #fff;
-    background: #{{ site.color.secondary }};
+    background: #{{ site.color.secondary-dark }};
+}
+hr.star-light-red {
+    border-color: #fff;
+}
+
+hr.star-light-red:after {
+    color: #fff;
+    background-color: #{{ site.color.secondary-dark }};
 }
