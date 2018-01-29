@@ -29,6 +29,7 @@ color:
   primary-rgb: "0,195,277" 
   secondary: ff4554 
   secondary-dark: d13a44 
+  white: ffffff
 
 # Footer settings
 footer:
