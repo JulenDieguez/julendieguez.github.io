@@ -38,7 +38,7 @@ h6 {
 
 hr.star-light,
 hr.star-primary,
-hr.star-secondary {
+hr.star-light-red {
     margin: 25px auto 30px;
     padding: 0;
     max-width: 250px;
@@ -50,7 +50,7 @@ hr.star-secondary {
 
 hr.star-light:after,
 hr.star-primary:after,
-hr.star-secondary:after {
+hr.star-light-red:after {
     content: "\f005";
     display: inline-block;
     position: relative;
