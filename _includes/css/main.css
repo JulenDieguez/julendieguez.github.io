@@ -81,14 +81,6 @@ hr.star-primary:after {
     background-color: #fff;
 }
 
-hr.star-secondary{
-    border-color: #{{ site.color.primary }};
-}
-
-hr.star-secondary:after{
-    color #{{ site.color.primary }};
-    background-color: #fff;
-}
 
 .img-centered {
     margin: 0 auto;
