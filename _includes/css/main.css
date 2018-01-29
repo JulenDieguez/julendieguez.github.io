@@ -38,7 +38,8 @@ h6 {
 
 hr.star-light,
 hr.star-primary,
-hr.star-light-red {
+hr.star-light-red,
+hr.star-secondary {
     margin: 25px auto 30px;
     padding: 0;
     max-width: 250px;
@@ -50,7 +51,8 @@ hr.star-light-red {
 
 hr.star-light:after,
 hr.star-primary:after,
-hr.star-light-red:after {
+hr.star-light-red:after,
+hr.star-secondary:after {
     content: "\f005";
     display: inline-block;
     position: relative;
@@ -481,4 +483,12 @@ hr.star-light-red {
 hr.star-light-red:after {
     color: #fff;
     background-color: #{{ site.color.secondary-dark }};
+}
+hr.star-secondary {
+    border-color: #fff;
+}
+
+hr.star-secondary:after {
+    color: #fff;
+    background-color: #{{ site.color.primary }};
 }
